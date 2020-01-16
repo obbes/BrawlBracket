@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BrawlBracket/static/css/main.2adc3286.chunk.css",
+    "main.js": "/BrawlBracket/static/js/main.59a4a054.chunk.js",
+    "main.js.map": "/BrawlBracket/static/js/main.59a4a054.chunk.js.map",
+    "runtime-main.js": "/BrawlBracket/static/js/runtime-main.af2b0154.js",
+    "runtime-main.js.map": "/BrawlBracket/static/js/runtime-main.af2b0154.js.map",
+    "static/js/2.fad46388.chunk.js": "/BrawlBracket/static/js/2.fad46388.chunk.js",
+    "static/js/2.fad46388.chunk.js.map": "/BrawlBracket/static/js/2.fad46388.chunk.js.map",
+    "index.html": "/BrawlBracket/index.html",
+    "precache-manifest.138eb6190fbf42752c3dbfd94b89efd7.js": "/BrawlBracket/precache-manifest.138eb6190fbf42752c3dbfd94b89efd7.js",
+    "service-worker.js": "/BrawlBracket/service-worker.js",
+    "static/css/main.2adc3286.chunk.css.map": "/BrawlBracket/static/css/main.2adc3286.chunk.css.map",
+    "static/js/2.fad46388.chunk.js.LICENSE": "/BrawlBracket/static/js/2.fad46388.chunk.js.LICENSE",
+    "static/media/styles.css": "/BrawlBracket/static/media/The_Brawl.6f17185a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af2b0154.js",
+    "static/js/2.fad46388.chunk.js",
+    "static/css/main.2adc3286.chunk.css",
+    "static/js/main.59a4a054.chunk.js"
+  ]
+}
