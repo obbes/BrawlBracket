@@ -1,0 +1,31 @@
+/*The Heading is the Brawl Logo*/
+.heading {    
+    width: 100%;
+    background-color: #ff0000;
+    background-image: url('The_Brawl.png');
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+.bracketarea {
+    background-image: url('Lawler_logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+  html,
+  body {
+    margin: 0;
+    height: 100%;
+  }
+  /*This is the label inlay of the bracket size component*/
+  .size-label {
+    display: inline-block;
+    padding: 2px;
+  }
+  /*Bracket Size component*/
+  .intro-components {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
