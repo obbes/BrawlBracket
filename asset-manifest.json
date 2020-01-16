@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/BrawlBracket/public/static/css/main.2e3f5ad7.chunk.css",
-    "main.js": "/BrawlBracket/public/static/js/main.59a4a054.chunk.js",
-    "main.js.map": "/BrawlBracket/public/static/js/main.59a4a054.chunk.js.map",
-    "runtime-main.js": "/BrawlBracket/public/static/js/runtime-main.6cd5593c.js",
-    "runtime-main.js.map": "/BrawlBracket/public/static/js/runtime-main.6cd5593c.js.map",
-    "static/js/2.2e041677.chunk.js": "/BrawlBracket/public/static/js/2.2e041677.chunk.js",
-    "static/js/2.2e041677.chunk.js.map": "/BrawlBracket/public/static/js/2.2e041677.chunk.js.map",
-    "index.html": "/BrawlBracket/public/index.html",
-    "precache-manifest.c6b68b2b4db23cd4939a84d85a99e2c0.js": "/BrawlBracket/public/precache-manifest.c6b68b2b4db23cd4939a84d85a99e2c0.js",
-    "service-worker.js": "/BrawlBracket/public/service-worker.js",
-    "static/css/main.2e3f5ad7.chunk.css.map": "/BrawlBracket/public/static/css/main.2e3f5ad7.chunk.css.map",
-    "static/js/2.2e041677.chunk.js.LICENSE": "/BrawlBracket/public/static/js/2.2e041677.chunk.js.LICENSE",
-    "static/media/styles.css": "/BrawlBracket/public/static/media/The_Brawl.6f17185a.png"
+    "main.css": "/BrawlBracket/static/css/main.2adc3286.chunk.css",
+    "main.js": "/BrawlBracket/static/js/main.59a4a054.chunk.js",
+    "main.js.map": "/BrawlBracket/static/js/main.59a4a054.chunk.js.map",
+    "runtime-main.js": "/BrawlBracket/static/js/runtime-main.af2b0154.js",
+    "runtime-main.js.map": "/BrawlBracket/static/js/runtime-main.af2b0154.js.map",
+    "static/js/2.fad46388.chunk.js": "/BrawlBracket/static/js/2.fad46388.chunk.js",
+    "static/js/2.fad46388.chunk.js.map": "/BrawlBracket/static/js/2.fad46388.chunk.js.map",
+    "index.html": "/BrawlBracket/index.html",
+    "precache-manifest.138eb6190fbf42752c3dbfd94b89efd7.js": "/BrawlBracket/precache-manifest.138eb6190fbf42752c3dbfd94b89efd7.js",
+    "service-worker.js": "/BrawlBracket/service-worker.js",
+    "static/css/main.2adc3286.chunk.css.map": "/BrawlBracket/static/css/main.2adc3286.chunk.css.map",
+    "static/js/2.fad46388.chunk.js.LICENSE": "/BrawlBracket/static/js/2.fad46388.chunk.js.LICENSE",
+    "static/media/styles.css": "/BrawlBracket/static/media/The_Brawl.6f17185a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cd5593c.js",
-    "static/js/2.2e041677.chunk.js",
-    "static/css/main.2e3f5ad7.chunk.css",
+    "static/js/runtime-main.af2b0154.js",
+    "static/js/2.fad46388.chunk.js",
+    "static/css/main.2adc3286.chunk.css",
     "static/js/main.59a4a054.chunk.js"
   ]
 }
